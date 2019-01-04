@@ -3,7 +3,8 @@
     <item android:drawable="@color/blue"/>
 
     <item
-        android:width="200dp"
+        android:width="150dp"
+        android:height="90dp"
         android:drawable="@mipmap/icon"
         android:gravity="center"
     />
